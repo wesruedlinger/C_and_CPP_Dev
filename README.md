@@ -1,1 +1,3 @@
-# CPP_dev
+# C++_Projects
+
+Various programs developed by myself.
